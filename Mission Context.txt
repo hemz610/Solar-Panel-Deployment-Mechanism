@@ -1,0 +1,40 @@
+Mission Objective - Detect, track, and estimate the orbit of 5–10 cm debris in LEO using synchronized stereoscopic observations and onboard image processing.
+Launch vehicle - Falcon heavy
+Orbit - 600Km SSO
+Life time - 2 years
+Payload  - 8–12 cm aperture telescope, CMOS scientific detector, AI processor
+Total payload mass - 6kg
+Total Mass Budget - 12Kg
+Required Solar array output - 15.8W
+Required solar array output BOL - 17.4W
+
+
+Solar cells per deployable panel 7 Number of deployable panels 2 Total solar cells 14 Power per cell (BOL) 1.24 W Total BOL power 17.4 W EOL degradation factor (typical 2-year LEO assumption) 0.91 Estimated EOL power 15.8 W
+
+
+
+A realistic payload would be something like:
+
+8–12 cm aperture telescope
+CMOS scientific detector
+Star tracker
+FPGA or GPU-lite processor
+Narrow field optics
+
+Mass:
+
+5–7 kg
+
+Volume:
+
+2.5U–3U
+
+Power:
+
+5–8 W average
+
+Examples include:
+
+HyperScout-class imagers
+Miniature SSA telescopes
+CubeSat astronomy payloads
